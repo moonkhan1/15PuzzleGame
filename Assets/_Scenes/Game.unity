@@ -3021,7 +3021,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 100
+  m_text: 15
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 83113daf59f9b7b4fbad69464f22b3b3, type: 2}
   m_sharedMaterial: {fileID: 278108520066303866, guid: 83113daf59f9b7b4fbad69464f22b3b3, type: 2}
@@ -3144,7 +3144,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WinPanel: {fileID: 2071295633}
   FailPanel: {fileID: 907412159}
-  timeRemaining: 240
+  timeRemaining: 30
   timerIsRunning: 0
   _timeText: {fileID: 225376055}
   _attemptText: {fileID: 1817100586}

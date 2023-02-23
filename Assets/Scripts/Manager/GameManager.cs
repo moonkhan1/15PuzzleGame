@@ -44,7 +44,7 @@ public class GameManager : MonoBehaviour
     public void CheckWin() {
         int tileCount = tiles.Length;
         for (int i = 0; i < tileCount; i++) {
-            if (tiles[i].tileNumber != i) {
+            if (tiles[i].tileNumber != i+1) {
                 return;
             }
         }
